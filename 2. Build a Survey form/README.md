@@ -2,4 +2,5 @@
 This is a HTML5 Responsive Validation Form
 ###### Website link (Live Preview) https://codepen.io/itsmnsi/full/LYWoXzJ
 
-![survey-form](https://user-images.githubusercontent.com/36513491/123079201-550be780-d439-11eb-843c-61caa4f0a4b8.png)
+![screencapture-codepen-io-itsmnsi-full-LYWoXzJ-2021-06-23-15_38_52](https://user-images.githubusercontent.com/36513491/123118290-22291a00-d460-11eb-99d3-85a115f9a506.png)
+
